@@ -19,7 +19,7 @@
 - 👩‍💻 I’m a student at **ALX Frontend Engineering Program** – building real projects every week!
 - 💬 Ask me about anything frontend – I love learning and sharing
 - 📫 Reach me: **skhaled510@gmail.com**
-- 🌟 Fun fact: I believe a good developer writes code *that makes people smile* ✨
+- ✨ I believe good design starts with empathy and ends with a clean UI
 
 ---
 
