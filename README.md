@@ -1,3 +1,11 @@
+
+<h2 align="center">✨ Welcome to my GitHub profile! ✨</h2>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="200" alt="Hi there">
+</p>
+
+
 <h1 align="center">👋 Hi there, I'm Samar Khaled</h1>
 
 <p align="center">A passionate junior frontend developer from Egypt 🇪🇬</p>
@@ -39,4 +47,9 @@
 ---
 
 > *"Keep learning, keep building, and always code with joy 💙"*
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+world+of+code!;Always+learning+something+new!&center=true&width=500&height=40" alt="Typing SVG">
+</p>
 
